@@ -1,6 +1,6 @@
 {
-  "name": "validatorjs",
-  "version": "1.0.0",
+  "name": "validator-javascript",
+  "version": "0.0.1",
   "description": "A JavaScript library to validate forms",
   "main": "./src/index.js",
   "scripts": {
